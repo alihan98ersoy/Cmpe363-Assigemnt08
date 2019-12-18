@@ -1,0 +1,7 @@
+http://alihanersoy-fn-12182019.azurewebsites.net/api/HttpTrigger?operationtype=sum&number=2&numberr=4
+
+
+
+
+
+http://alihanersoy-fn-12182019.azurewebsites.net/api/HttpTrigger?operationtype=multiply&number=2&numberr=4
